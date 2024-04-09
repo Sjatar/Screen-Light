@@ -11,7 +11,7 @@ This plugin can be used in two ways!
 Part 1: Premade prop!
 -------------------------
 
-Make sure you have a spout2 plugin installed to OBS, I recomend and use: https://github.com/Off-World-Live/obs-spout2-plugin/
+Make sure you have a spout2 plugin installed to OBS, I recommend and use: https://github.com/Off-World-Live/obs-spout2-plugin/
 
 Make sure you have "Allow 3rd Party Mods/Plugins" enabled in VNyan!
 
