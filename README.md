@@ -5,7 +5,7 @@ Here is a short clip of the current version being used on stream! I like the eff
 
 https://clips.twitch.tv/SilkyRoundOkapiAMPEnergy-1v35Wh-icf2U_-yv
 
-I have not found this plugin to not affect performance on my system and from what I understand it should be relatively efficent! If you have large performance issues, do tell, it might come down to GPU model or other issues.
+I have not found this plugin to affect performance on my system and from what I understand it should be relatively efficent! If you have large performance issues, do tell, it might come down to GPU model or other issues.
 
 -------------------------
 
