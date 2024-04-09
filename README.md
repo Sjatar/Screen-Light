@@ -83,7 +83,7 @@ Part 3: Node graphs!
 I promise this part will not be to long <3
 
 1. Instead of changing the settings manually through the plugin window. I recommend setting up node graphs to setup the prop on VNyan startup or changing scenes!
-2. You can load the example graph: "GitHubShowcase.json". This can be downloaded from the release page!
+2. You can load the example graph: "GitHubShowcase.json". This can be downloaded here: [GitHubShowcase.json](https://github.com/Sjatar/Screen-Light/files/14923281/GitHubShowcase.json)
 3. On changing scene or on application start, set the parameters to the values you found to work the best
 
 -------------------------
