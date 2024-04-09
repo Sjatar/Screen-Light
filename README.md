@@ -1,6 +1,9 @@
 # Screen-Light
 This plugin for VNyan will approximate the light coming of a screen to light up your avatar!
 
+Here is a short clip of the current version being used on stream! Live demonstrations might be provided at scheduled times <3
+https://clips.twitch.tv/SilkyRoundOkapiAMPEnergy-1v35Wh-icf2U_-yv
+
 -------------------------
 
 This plugin can be used in two ways!
