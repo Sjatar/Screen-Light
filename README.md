@@ -1,4 +1,7 @@
 # Screen-Light
+
+![image](https://raw.githubusercontent.com/Sjatar/Screen-Light/main/thumbnail/thumbnail.webp)
+
 This plugin for VNyan will approximate the light coming of a screen to light up your avatar!
 
 Here is a short clip of the current version being used on stream! I like the effect to be a little muted and I think it gives a nice immersion. I use all default settings, and the prop is based on the setup seen in this clip. Live demonstrations might be provided at scheduled times <3
