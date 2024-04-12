@@ -1,6 +1,6 @@
 # Screen-Light
 
-![image](https://raw.githubusercontent.com/Sjatar/Screen-Light/main/thumbnail/thumbnail.webm)
+![image](https://raw.githubusercontent.com/Sjatar/Screen-Light/main/thumbnail/thumbnail.webp)
 
 This plugin for VNyan will approximate the light coming of a screen to light up your avatar!
 
