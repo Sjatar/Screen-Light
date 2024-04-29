@@ -46,9 +46,9 @@ I recomend the premade prop and I will detail first how to setup the prop!
    - Assemblies
    - Props
 4. You can now open VNyan! Open props and add the ScreenLamp.vnprop located in VNyan/Items/Props
-   - Note: it will not instantly work! But position it so the little cylinder is pointing towards your avatar, in line with the mouth or so. I recommend using the handy move gizmo!
+   - Note: it will not instantly work! But position it so the little cylinder is pointing towards your avatar, in line with the mouth or so. I recommend using the handy move gizmo! Make sure the prop is linked to the world and not your head.
 
-![image](https://github.com/Sjatar/Screen-Light/assets/56020444/6e7bb289-6fce-4456-aa2a-500b31f829ff)
+![image](https://github.com/Sjatar/Screen-Light/assets/56020444/2d98c886-0b49-4308-8327-2eb75bf35db9)
    
 5.  Open OBS! For this to work you need spout2 installed. If you have a game/display or window capture, right click it and add a Spout filter! In the example I added a browser source.
     - Currently the plugin supports two spout names: "screen" and "game". By default the plugin uses the spout2 texture name "screen". See second part how to use second texture!
