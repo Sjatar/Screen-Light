@@ -40,6 +40,8 @@ I recomend the premade prop and I will detail first how to setup the prop!
      - Plugin window itself
    - ScreenLamp.vnprop
      - Screen light prop
+   - ScreenLampInvis.vnprop
+     - Screen light prop but without the helpful cylinder!
 3. The zip should contain two folders, drop both into VNyan/Items to add the above items!
    - Assemblies
    - Props
