@@ -47,6 +47,7 @@ I recomend the premade prop and I will detail first how to setup the prop!
    - Props
 4. You can now open VNyan! Open props and add the ScreenLamp.vnprop located in VNyan/Items/Props
    - Note: it will not instantly work! But position it so the little cylinder is pointing towards your avatar, in line with the mouth or so. I recommend using the handy move gizmo! Make sure the prop is linked to the world and not your head.
+   - Note 2: If you have positioned the cylinder prop but see the cylinder at times. You can copy the settings to the invis version of the prop!
 
 ![image](https://github.com/Sjatar/Screen-Light/assets/56020444/2d98c886-0b49-4308-8327-2eb75bf35db9)
    
